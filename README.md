@@ -1,8 +1,8 @@
-Jerry Zhu
-002294410
+#Jerry Zhu
+#002294410
 
-assignment 3
+#assignment 3
 
-GenStack.h
-GenStack.cpp
-main.cpp
+#GenStack.h
+#GenStack.cpp
+#main.cpp
